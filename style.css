@@ -10,7 +10,7 @@ body {
   background-color: var(--dark);
   max-width: 50ch;
   padding: 5%;
-  color: #EEEEEE;
+  color: #E6E6E6;
   font-family: var(--system-fonts);
   font-size: 1.5rem;
   line-height: 1.6;

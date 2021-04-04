@@ -29,11 +29,6 @@ a {
   border-bottom: 2px solid var(--accent-light);
 }
 
-a:hover {
-  color: var(--accent);
-  border-color: var(--accent);
-}
-
 ::selection {
   background: var(--accent);
 }

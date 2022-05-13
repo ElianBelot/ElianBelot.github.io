@@ -31,9 +31,9 @@ a {
 }
 
 ::selection {
-  background: var(--accent);
+  background: var(--accent-light);
 }
 
 ::-moz-selection {
-  background: var(--accent);
+  background: var(--accent-light);
 }

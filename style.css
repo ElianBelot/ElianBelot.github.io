@@ -30,10 +30,14 @@ a {
   border-bottom: 0px solid var(--accent-light);
 }
 
+
+
 ::selection {
   background: var(--accent-light);
+  color: #E6E6E6;
 }
 
 ::-moz-selection {
   background: var(--accent-light);
+  color: #E6E6E6;
 }
